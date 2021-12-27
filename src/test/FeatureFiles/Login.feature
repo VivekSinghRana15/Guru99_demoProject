@@ -9,6 +9,6 @@ Feature: This feature file is to login to Guru99 Banking Demo website
     And I Logout and Close Browser
     Examples:
       | Number | URL                                 | Username  | Password  |
-      | 01     | http://demo.guru99.com/V1/index.php | mngr26593 | 123456aA! |
+      | 001     | http://demo.guru99.com/V1/index.php | mngr26593 | 123456aA! |
 
 
